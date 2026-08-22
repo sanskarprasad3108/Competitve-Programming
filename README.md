@@ -15,11 +15,13 @@ This repository tracks solved DSA problems.
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0410-split-array-largest-sum) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Binary Search
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0410-split-array-largest-sum) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Dynamic Programming
 |  |
