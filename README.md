@@ -97,9 +97,22 @@ This repository tracks solved DSA problems.
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0547-number-of-provinces) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Sorting
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0547-number-of-provinces) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
