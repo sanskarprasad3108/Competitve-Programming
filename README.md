@@ -24,6 +24,7 @@ This repository tracks solved DSA problems.
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -56,6 +57,7 @@ This repository tracks solved DSA problems.
 | ------- |
 | [1872-stone-game-viii](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1927-sum-game) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3876-construct-uniform-parity-array-ii) |
 ## String
 |  |
 | ------- |
