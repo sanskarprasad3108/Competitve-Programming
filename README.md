@@ -22,6 +22,7 @@ This repository tracks solved DSA problems.
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2187-minimum-time-to-complete-trips) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3483-unique-3-digit-even-numbers](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -91,6 +92,7 @@ This repository tracks solved DSA problems.
 ## Hash Table
 |  |
 | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -105,6 +107,7 @@ This repository tracks solved DSA problems.
 ## Enumeration
 |  |
 | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Two Pointers
@@ -154,4 +157,8 @@ This repository tracks solved DSA problems.
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
