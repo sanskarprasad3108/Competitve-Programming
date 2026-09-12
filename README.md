@@ -23,6 +23,7 @@ This repository tracks solved DSA problems.
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2187-minimum-time-to-complete-trips) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -37,6 +38,7 @@ This repository tracks solved DSA problems.
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2187-minimum-time-to-complete-trips](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2187-minimum-time-to-complete-trips) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -45,6 +47,7 @@ This repository tracks solved DSA problems.
 | [0410-split-array-largest-sum](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0410-split-array-largest-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0940-distinct-subsequences-ii) |
 | [1872-stone-game-viii](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1872-stone-game-viii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Greedy
 |  |
 | ------- |
@@ -124,6 +127,7 @@ This repository tracks solved DSA problems.
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Depth-First Search
 |  |
 | ------- |
