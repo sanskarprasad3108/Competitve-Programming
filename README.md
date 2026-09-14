@@ -67,6 +67,7 @@ This repository tracks solved DSA problems.
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0836-rectangle-overlap) |
 | [1872-stone-game-viii](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1927-sum-game) |
 | [3870-count-commas-in-range](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3870-count-commas-in-range) |
@@ -169,4 +170,8 @@ This repository tracks solved DSA problems.
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
