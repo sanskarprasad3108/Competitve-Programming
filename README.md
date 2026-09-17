@@ -17,6 +17,7 @@ This repository tracks solved DSA problems.
 | [0410-split-array-largest-sum](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0410-split-array-largest-sum) |
 | [0766-toeplitz-matrix](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0835-image-overlap) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1872-stone-game-viii](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1872-stone-game-viii) |
@@ -35,6 +36,7 @@ This repository tracks solved DSA problems.
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0410-split-array-largest-sum) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -47,6 +49,7 @@ This repository tracks solved DSA problems.
 | [0115-distinct-subsequences](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0115-distinct-subsequences) |
 | [0410-split-array-largest-sum](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0410-split-array-largest-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0940-distinct-subsequences-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -104,6 +107,7 @@ This repository tracks solved DSA problems.
 ## Hash Table
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -111,6 +115,7 @@ This repository tracks solved DSA problems.
 ## Sliding Window
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Counting
 |  |
