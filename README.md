@@ -20,6 +20,7 @@ This repository tracks solved DSA problems.
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1872-stone-game-viii](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1872-stone-game-viii) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -100,6 +101,7 @@ This repository tracks solved DSA problems.
 | [0940-distinct-subsequences-ii](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -126,6 +128,7 @@ This repository tracks solved DSA problems.
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3718-smallest-missing-multiple-of-k) |
