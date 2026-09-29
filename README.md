@@ -26,6 +26,7 @@ This repository tracks solved DSA problems.
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2187-minimum-time-to-complete-trips) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3483-unique-3-digit-even-numbers) |
@@ -58,6 +59,7 @@ This repository tracks solved DSA problems.
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1872-stone-game-viii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3524-find-x-value-of-array-i) |
@@ -198,6 +200,7 @@ This repository tracks solved DSA problems.
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0835-image-overlap) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree
 |  |
@@ -243,4 +246,5 @@ This repository tracks solved DSA problems.
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
