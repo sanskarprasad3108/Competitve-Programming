@@ -110,6 +110,7 @@ This repository tracks solved DSA problems.
 | [0032-longest-valid-parentheses](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0032-longest-valid-parentheses) |
 | [0097-interleaving-string](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0115-distinct-subsequences) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1096-brace-expansion-ii) |
@@ -189,11 +190,13 @@ This repository tracks solved DSA problems.
 ## Depth-First Search
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0547-number-of-provinces) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0547-number-of-provinces) |
 | [1096-brace-expansion-ii](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -219,10 +222,12 @@ This repository tracks solved DSA problems.
 ## Tree
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Recursion
 |  |
@@ -271,4 +276,8 @@ This repository tracks solved DSA problems.
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
