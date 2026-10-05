@@ -197,6 +197,7 @@ This repository tracks solved DSA problems.
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0547-number-of-provinces) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0897-increasing-order-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -236,6 +237,7 @@ This repository tracks solved DSA problems.
 | [0501-find-mode-in-binary-search-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0897-increasing-order-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -246,6 +248,7 @@ This repository tracks solved DSA problems.
 | [0501-find-mode-in-binary-search-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0897-increasing-order-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Recursion
 |  |
@@ -280,6 +283,7 @@ This repository tracks solved DSA problems.
 | [0032-longest-valid-parentheses](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0856-score-of-parentheses) |
+| [0897-increasing-order-search-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0897-increasing-order-search-tree) |
 | [1096-brace-expansion-ii](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -313,4 +317,5 @@ This repository tracks solved DSA problems.
 | [0501-find-mode-in-binary-search-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0897-increasing-order-search-tree) |
 <!---LeetCode Topics End-->
