@@ -57,6 +57,7 @@ This repository tracks solved DSA problems.
 | ------- |
 | [0022-generate-parentheses](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0032-longest-valid-parentheses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0095-unique-binary-search-trees-ii) |
 | [0097-interleaving-string](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0115-distinct-subsequences) |
 | [0410-split-array-largest-sum](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0410-split-array-largest-sum) |
@@ -234,6 +235,7 @@ This repository tracks solved DSA problems.
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0095-unique-binary-search-trees-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -247,6 +249,7 @@ This repository tracks solved DSA problems.
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0095-unique-binary-search-trees-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -282,6 +285,7 @@ This repository tracks solved DSA problems.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0022-generate-parentheses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0095-unique-binary-search-trees-ii) |
 | [1096-brace-expansion-ii](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
@@ -319,6 +323,7 @@ This repository tracks solved DSA problems.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0095-unique-binary-search-trees-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0501-find-mode-in-binary-search-tree) |
