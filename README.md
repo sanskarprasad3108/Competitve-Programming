@@ -209,6 +209,7 @@ This repository tracks solved DSA problems.
 ## Linked List
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Bit Manipulation
 |  |
@@ -225,12 +226,14 @@ This repository tracks solved DSA problems.
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Recursion
@@ -290,8 +293,10 @@ This repository tracks solved DSA problems.
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 <!---LeetCode Topics End-->
