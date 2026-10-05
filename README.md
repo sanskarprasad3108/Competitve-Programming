@@ -193,6 +193,7 @@ This repository tracks solved DSA problems.
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0547-number-of-provinces](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0547-number-of-provinces) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
@@ -228,6 +229,7 @@ This repository tracks solved DSA problems.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0501-find-mode-in-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -235,6 +237,7 @@ This repository tracks solved DSA problems.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0501-find-mode-in-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Recursion
 |  |
@@ -299,4 +302,5 @@ This repository tracks solved DSA problems.
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0501-find-mode-in-binary-search-tree) |
 <!---LeetCode Topics End-->
