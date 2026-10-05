@@ -198,6 +198,7 @@ This repository tracks solved DSA problems.
 | [0547-number-of-provinces](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0547-number-of-provinces) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0897-increasing-order-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0938-range-sum-of-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -238,6 +239,7 @@ This repository tracks solved DSA problems.
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0897-increasing-order-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0938-range-sum-of-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -249,6 +251,7 @@ This repository tracks solved DSA problems.
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0897-increasing-order-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0938-range-sum-of-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Recursion
 |  |
@@ -318,4 +321,5 @@ This repository tracks solved DSA problems.
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0897-increasing-order-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
