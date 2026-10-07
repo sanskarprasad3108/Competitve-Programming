@@ -116,6 +116,7 @@ This repository tracks solved DSA problems.
 | [0097-interleaving-string](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0115-distinct-subsequences) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -212,6 +213,7 @@ This repository tracks solved DSA problems.
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0301-remove-invalid-parentheses) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0547-number-of-provinces) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -291,6 +293,7 @@ This repository tracks solved DSA problems.
 | ------- |
 | [0022-generate-parentheses](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0022-generate-parentheses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0095-unique-binary-search-trees-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
