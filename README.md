@@ -23,6 +23,7 @@ This repository tracks solved DSA problems.
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1818-minimum-absolute-sum-difference](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1818-minimum-absolute-sum-difference) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1872-stone-game-viii](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1872-stone-game-viii) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -49,6 +50,7 @@ This repository tracks solved DSA problems.
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [1818-minimum-absolute-sum-difference](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1818-minimum-absolute-sum-difference) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2187-minimum-time-to-complete-trips](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2187-minimum-time-to-complete-trips) |
@@ -202,6 +204,7 @@ This repository tracks solved DSA problems.
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1096-brace-expansion-ii](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1818-minimum-absolute-sum-difference](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1818-minimum-absolute-sum-difference) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -365,4 +368,8 @@ This repository tracks solved DSA problems.
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2333-minimum-sum-of-squared-difference) |
+## Ordered Set
+|  |
+| ------- |
+| [1818-minimum-absolute-sum-difference](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1818-minimum-absolute-sum-difference) |
 <!---LeetCode Topics End-->
