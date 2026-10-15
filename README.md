@@ -109,6 +109,7 @@ This repository tracks solved DSA problems.
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0012-integer-to-roman) |
 | [0836-rectangle-overlap](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0836-rectangle-overlap) |
 | [1154-day-of-the-year](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1154-day-of-the-year) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -124,6 +125,7 @@ This repository tracks solved DSA problems.
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0032-longest-valid-parentheses) |
@@ -168,6 +170,7 @@ This repository tracks solved DSA problems.
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0012-integer-to-roman) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1096-brace-expansion-ii](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
