@@ -47,6 +47,7 @@ This repository tracks solved DSA problems.
 | [3718-smallest-missing-multiple-of-k](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
@@ -126,6 +127,7 @@ This repository tracks solved DSA problems.
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3870-count-commas-in-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3886-sum-of-sortable-integers) |
 ## String
 |  |
 | ------- |
@@ -206,6 +208,7 @@ This repository tracks solved DSA problems.
 | [3483-unique-3-digit-even-numbers](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3886-sum-of-sortable-integers](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3886-sum-of-sortable-integers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -231,6 +234,7 @@ This repository tracks solved DSA problems.
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3886-sum-of-sortable-integers) |
 ## Depth-First Search
 |  |
 | ------- |
