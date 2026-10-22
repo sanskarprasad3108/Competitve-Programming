@@ -20,6 +20,7 @@ This repository tracks solved DSA problems.
 | [0766-toeplitz-matrix](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -79,6 +80,7 @@ This repository tracks solved DSA problems.
 | [0940-distinct-subsequences-ii](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0940-distinct-subsequences-ii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -119,6 +121,7 @@ This repository tracks solved DSA problems.
 | [0836-rectangle-overlap](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0836-rectangle-overlap) |
 | [1154-day-of-the-year](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1154-day-of-the-year) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1927-sum-game) |
@@ -222,6 +225,7 @@ This repository tracks solved DSA problems.
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0547-number-of-provinces) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Sorting
 |  |
@@ -293,6 +297,7 @@ This repository tracks solved DSA problems.
 | [0897-increasing-order-search-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0938-range-sum-of-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -307,6 +312,7 @@ This repository tracks solved DSA problems.
 | [0897-increasing-order-search-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0938-range-sum-of-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Recursion
 |  |
@@ -320,6 +326,7 @@ This repository tracks solved DSA problems.
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Simulation
 |  |
@@ -380,6 +387,7 @@ This repository tracks solved DSA problems.
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -392,6 +400,7 @@ This repository tracks solved DSA problems.
 | [0897-increasing-order-search-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0938-range-sum-of-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## DP on Trees
 |  |
 | ------- |
@@ -409,4 +418,12 @@ This repository tracks solved DSA problems.
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
