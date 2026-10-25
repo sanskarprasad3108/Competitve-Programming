@@ -19,6 +19,7 @@ This repository tracks solved DSA problems.
 | [0410-split-array-largest-sum](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0410-split-array-largest-sum) |
 | [0766-toeplitz-matrix](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1254-number-of-closed-islands) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -225,6 +226,7 @@ This repository tracks solved DSA problems.
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0547-number-of-provinces) |
+| [1254-number-of-closed-islands](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Sorting
@@ -251,6 +253,7 @@ This repository tracks solved DSA problems.
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0938-range-sum-of-bst) |
+| [1254-number-of-closed-islands](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1254-number-of-closed-islands) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
@@ -262,6 +265,7 @@ This repository tracks solved DSA problems.
 | [0547-number-of-provinces](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0547-number-of-provinces) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1096-brace-expansion-ii](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
@@ -282,6 +286,7 @@ This repository tracks solved DSA problems.
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree
