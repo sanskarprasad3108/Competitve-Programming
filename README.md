@@ -169,6 +169,7 @@ This repository tracks solved DSA problems.
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Game Theory
 |  |
 | ------- |
@@ -278,6 +279,7 @@ This repository tracks solved DSA problems.
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0547-number-of-provinces) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Linked List
 |  |
 | ------- |
@@ -426,6 +428,7 @@ This repository tracks solved DSA problems.
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Ordered Set
 |  |
 | ------- |
@@ -444,4 +447,8 @@ This repository tracks solved DSA problems.
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
