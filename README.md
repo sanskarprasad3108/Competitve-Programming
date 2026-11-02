@@ -17,6 +17,7 @@ This repository tracks solved DSA problems.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0410-split-array-largest-sum) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0766-toeplitz-matrix](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1254-number-of-closed-islands) |
@@ -123,6 +124,7 @@ This repository tracks solved DSA problems.
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0012-integer-to-roman) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0836-rectangle-overlap) |
 | [1154-day-of-the-year](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1154-day-of-the-year) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -240,6 +242,7 @@ This repository tracks solved DSA problems.
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1818-minimum-absolute-sum-difference](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1818-minimum-absolute-sum-difference) |
