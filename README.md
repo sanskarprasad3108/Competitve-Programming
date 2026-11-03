@@ -51,6 +51,7 @@ This repository tracks solved DSA problems.
 | [3665-twisted-mirror-path-count](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3665-twisted-mirror-path-count) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3886-sum-of-sortable-integers) |
@@ -136,6 +137,7 @@ This repository tracks solved DSA problems.
 | [3525-find-x-value-of-array-ii](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3870-count-commas-in-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3886-sum-of-sortable-integers) |
