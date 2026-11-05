@@ -53,6 +53,7 @@ This repository tracks solved DSA problems.
 | [3718-smallest-missing-multiple-of-k](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3886-sum-of-sortable-integers) |
@@ -75,6 +76,7 @@ This repository tracks solved DSA problems.
 | [2187-minimum-time-to-complete-trips](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2187-minimum-time-to-complete-trips) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -258,6 +260,7 @@ This repository tracks solved DSA problems.
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3886-sum-of-sortable-integers](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3886-sum-of-sortable-integers) |
 ## Depth-First Search
 |  |
@@ -418,6 +421,7 @@ This repository tracks solved DSA problems.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
 |  |
@@ -463,4 +467,8 @@ This repository tracks solved DSA problems.
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Quickselect
+|  |
+| ------- |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 <!---LeetCode Topics End-->
