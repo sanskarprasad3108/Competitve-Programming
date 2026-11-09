@@ -24,6 +24,7 @@ This repository tracks solved DSA problems.
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -367,6 +368,7 @@ This repository tracks solved DSA problems.
 ## Simulation
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3498-reverse-degree-of-a-string](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3498-reverse-degree-of-a-string) |
 ## Segment Tree
@@ -447,11 +449,13 @@ This repository tracks solved DSA problems.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Ordered Set
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1818-minimum-absolute-sum-difference](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1818-minimum-absolute-sum-difference) |
 ## Binary Indexed Tree
 |  |
