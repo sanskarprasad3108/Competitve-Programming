@@ -500,4 +500,8 @@ This repository tracks solved DSA problems.
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
