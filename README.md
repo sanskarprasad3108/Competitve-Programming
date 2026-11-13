@@ -508,4 +508,5 @@ This repository tracks solved DSA problems.
 | [0620-not-boring-movies](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0620-not-boring-movies) |
 | [1045-customers-who-bought-all-products](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1045-customers-who-bought-all-products) |
 | [1068-product-sales-analysis-i](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1068-product-sales-analysis-i) |
+| [1280-students-and-examinations](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1280-students-and-examinations) |
 <!---LeetCode Topics End-->
