@@ -506,4 +506,5 @@ This repository tracks solved DSA problems.
 | [0183-customers-who-never-order](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0183-customers-who-never-order) |
 | [0584-find-customer-referee](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0620-not-boring-movies) |
+| [1068-product-sales-analysis-i](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1068-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
