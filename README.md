@@ -185,6 +185,7 @@ This repository tracks solved DSA problems.
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1927-sum-game) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
@@ -383,6 +384,7 @@ This repository tracks solved DSA problems.
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3498-reverse-degree-of-a-string](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3498-reverse-degree-of-a-string) |
 ## Segment Tree
