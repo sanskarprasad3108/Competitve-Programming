@@ -21,6 +21,7 @@ This repository tracks solved DSA problems.
 | [0766-toeplitz-matrix](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1254-number-of-closed-islands) |
+| [1352-product-of-the-last-k-numbers](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -134,6 +135,7 @@ This repository tracks solved DSA problems.
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0410-split-array-largest-sum) |
+| [1352-product-of-the-last-k-numbers](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -148,6 +150,7 @@ This repository tracks solved DSA problems.
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0836-rectangle-overlap) |
 | [1154-day-of-the-year](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1154-day-of-the-year) |
+| [1352-product-of-the-last-k-numbers](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -451,6 +454,7 @@ This repository tracks solved DSA problems.
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1352-product-of-the-last-k-numbers](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1352-product-of-the-last-k-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -532,4 +536,8 @@ This repository tracks solved DSA problems.
 | [1068-product-sales-analysis-i](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1068-product-sales-analysis-i) |
 | [1280-students-and-examinations](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1280-students-and-examinations) |
 | [1789-primary-department-for-each-employee](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1789-primary-department-for-each-employee) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
