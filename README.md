@@ -70,6 +70,7 @@ This repository tracks solved DSA problems.
 | [3886-sum-of-sortable-integers](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Binary Search
 |  |
@@ -88,6 +89,7 @@ This repository tracks solved DSA problems.
 | [2333-minimum-sum-of-squared-difference](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3759-count-elements-with-at-least-k-greater-values) |
+| [3934-smallest-unique-subarray](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3934-smallest-unique-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -240,6 +242,7 @@ This repository tracks solved DSA problems.
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3934-smallest-unique-subarray](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3934-smallest-unique-subarray) |
 ## Sliding Window
 |  |
 | ------- |
@@ -548,4 +551,16 @@ This repository tracks solved DSA problems.
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3411-maximum-subarray-with-equal-products) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
