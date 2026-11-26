@@ -160,6 +160,7 @@ This repository tracks solved DSA problems.
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1927-sum-game) |
+| [3360-stone-removal-game](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3524-find-x-value-of-array-i](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3525-find-x-value-of-array-ii) |
@@ -408,6 +409,7 @@ This repository tracks solved DSA problems.
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
+| [3360-stone-removal-game](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3498-reverse-degree-of-a-string) |
 ## Segment Tree
 |  |
