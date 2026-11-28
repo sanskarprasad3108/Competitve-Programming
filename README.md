@@ -73,6 +73,7 @@ This repository tracks solved DSA problems.
 | [3934-smallest-unique-subarray](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -137,6 +138,7 @@ This repository tracks solved DSA problems.
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -306,6 +308,7 @@ This repository tracks solved DSA problems.
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3886-sum-of-sortable-integers](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3886-sum-of-sortable-integers) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -497,6 +500,7 @@ This repository tracks solved DSA problems.
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/sanskarprasad3108/Competitve-Programming/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Ordered Set
 |  |
